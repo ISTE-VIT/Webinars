@@ -1,4 +1,4 @@
-<p align="center"><a href="https://istevit.in/" target="_blank"><img src="https://github.com/Manasvi070902/webinar-template/blob/main/ISTE_logo.png"  alt="ISTE-VIT"></a>
+<p align="center"><a href="https://istevit.in/" target="_blank"><img src="./ISTE_logo.png"  alt="ISTE-VIT"></a>
 </p>
 
 
