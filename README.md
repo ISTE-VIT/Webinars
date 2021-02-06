@@ -20,7 +20,9 @@
 | Statistics and Machine Learning                                                  | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=07GHVv5ceaQ)  |    
 | Inroduction to PHP                                                 | [Resources](https://github.com/ISTE-VIT/php-webinar)        | [Webinar](https://www.youtube.com/watch?v=THI2hwhIghE)  | 
 | Mathematics for Machine Learning                                                | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=RP27N8sE2Hc)  |  
-| Building with Bootstrap                                            | [Resources](https://github.com/ISTE-VIT/Building-with-Bootstrap)        | [Webinar](https://www.youtube.com/watch?v=GEaaq2CE_84)  |  
+| Building with Bootstrap                                            | [Resources](https://github.com/ISTE-VIT/Building-with-Bootstrap)        | [Webinar](https://www.youtube.com/watch?v=GEaaq2CE_84)  | 
+| Proteus Prime                                           | [Resources](https://github.com/ISTE-VIT/Proteus-Prime)        | [Webinar](https://www.youtube.com/watch?v=vNdBHwyuniE)  |  
+
 
 
 <hr>
