@@ -22,6 +22,7 @@
 | Mathematics for Machine Learning                                                | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=RP27N8sE2Hc)  |  
 | Building with Bootstrap                                            | [Resources](https://github.com/ISTE-VIT/Building-with-Bootstrap)        | [Webinar](https://www.youtube.com/watch?v=GEaaq2CE_84)  | 
 | Proteus Prime                                           | [Resources](https://github.com/ISTE-VIT/Proteus-Prime)        | [Webinar](https://www.youtube.com/watch?v=vNdBHwyuniE)  |  
+| DataViz                                          | [Resources](https://github.com/ISTE-VIT/DataViz)        | [Webinar](https://www.youtube.com/watch?v=dautTQ7k99w)  |  
 
 
 
