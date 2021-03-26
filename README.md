@@ -23,6 +23,9 @@
 | Building with Bootstrap                                            | [Resources](https://github.com/ISTE-VIT/Building-with-Bootstrap)        | [Webinar](https://www.youtube.com/watch?v=GEaaq2CE_84)  | 
 | Proteus Prime                                           | [Resources](https://github.com/ISTE-VIT/Proteus-Prime)        | [Webinar](https://www.youtube.com/watch?v=vNdBHwyuniE)  |  
 | DataViz                                          | [Resources](https://github.com/ISTE-VIT/DataViz)        | [Webinar](https://www.youtube.com/watch?v=dautTQ7k99w)  |  
+| Cloud Fundamentals and Best Practices                                     | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=THds-sDCldE)  |  
+| Android vs iOS                                    | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=MvmYc84RuXE)  |  
+| Code Asymptote                                  | [Resources](https://github.com/ISTE-VIT/Code-Asymptote)        | [Webinar](https://www.youtube.com/watch?v=4SbnwTEnnHo)  |  
 
 
 
