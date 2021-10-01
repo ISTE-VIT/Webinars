@@ -34,7 +34,7 @@
 | Spectacul-AR                                  | [Resources](https://github.com/ISTE-VIT/Spectacul-AR)        | [Webinar](https://www.youtube.com/watch?v=k4_RjiDUSZM)  |
 | Decoding-Data                                  | [Resources](https://github.com/ISTE-VIT/Decoding-Data)        | [Webinar](https://youtu.be/nbFNh_Zo2-w)  | 
 | DeCrypto                                 | [Resources](https://github.com/ISTE-VIT/DeCrypto)        | [Webinar](https://youtu.be/wRQCemRueTw)  | 
-| DeCrypto                                 | [Resources](https://github.com/ISTE-VIT/DeCrypto)        | [Webinar](https://youtu.be/wRQCemRueTw)  |
+| Kickstart Kaggle                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=X9iVdWAQFb8)  |
 | Data Security                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=Xunzk_GyGJA)  |
 <hr>
 <p align="center">
