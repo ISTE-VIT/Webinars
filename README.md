@@ -26,10 +26,6 @@
 | Cloud Fundamentals and Best Practices                                     | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=THds-sDCldE)  |  
 | Android vs iOS                                    | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=MvmYc84RuXE)  |  
 | Code Asymptote                                  | [Resources](https://github.com/ISTE-VIT/Code-Asymptote)        | [Webinar](https://www.youtube.com/watch?v=4SbnwTEnnHo)  |  
-
-| Code Asymptote                                  | [Resources](https://github.com/ISTE-VIT/Code-Asymptote)        | [Webinar](https://www.youtube.com/watch?v=4SbnwTEnnHo)  | 
-
-
 | STL - For A Better Code                                | [Resources](https://github.com/ISTE-VIT/STL-For-a-Better-Code)        | [Webinar](hhttps://www.youtube.com/watch?v=3bGlEM4sbNQ)  | 
 
 | Deep Dive into DL                                 | [Resources](https://github.com/ISTE-VIT/Deep-Dive-into-DL)        | [Webinar](https://www.youtube.com/watch?v=H5qBLd2Tua4)  | 
