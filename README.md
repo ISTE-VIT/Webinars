@@ -27,7 +27,25 @@
 | Android vs iOS                                    | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=MvmYc84RuXE)  |  
 | Code Asymptote                                  | [Resources](https://github.com/ISTE-VIT/Code-Asymptote)        | [Webinar](https://www.youtube.com/watch?v=4SbnwTEnnHo)  |  
 
+| Code Asymptote                                  | [Resources](https://github.com/ISTE-VIT/Code-Asymptote)        | [Webinar](https://www.youtube.com/watch?v=4SbnwTEnnHo)  | 
 
+
+| STL - For A Better Code                                | [Resources](https://github.com/ISTE-VIT/STL-For-a-Better-Code)        | [Webinar](hhttps://www.youtube.com/watch?v=3bGlEM4sbNQ)  | 
+
+| Deep Dive into DL                                 | [Resources](https://github.com/ISTE-VIT/Deep-Dive-into-DL)        | [Webinar](https://www.youtube.com/watch?v=H5qBLd2Tua4)  | 
+
+| Deep Dive into DL                                 |        | [Webinar](https://www.youtube.com/watch?v=wcJm1ikVj20)  | 
+
+| Build A Bot                                 | [Resources](https://github.com/ISTE-VIT/Build-a-bot)        | [Webinar](https://www.youtube.com/watch?v=WKGxq8oqMXM)  | 
+
+
+| Null Code AI                                 | [Resources](https://github.com/ISTE-VIT/Null-Code-AI)        | [Webinar](https://www.youtube.com/watch?v=E7PGac3jwPU)  | 
+
+| Spectacul-AR                                  | [Resources](https://github.com/ISTE-VIT/Spectacul-AR)        | [Webinar](https://www.youtube.com/watch?v=k4_RjiDUSZM)  |
+
+| Decoding-Data                                  | [Resources](https://github.com/ISTE-VIT/Decoding-Data)        | [Webinar](https://youtu.be/nbFNh_Zo2-w)  | 
+
+| DeCrypto                                 | [Resources](https://github.com/ISTE-VIT/DeCrypto)        | [Webinar](https://youtu.be/wRQCemRueTw)  | 
 
 <hr>
 <p align="center">
