@@ -36,6 +36,12 @@
 | DeCrypto                                 | [Resources](https://github.com/ISTE-VIT/DeCrypto)        | [Webinar](https://youtu.be/wRQCemRueTw)  | 
 | Kickstart Kaggle                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=X9iVdWAQFb8)  |
 | Data Security                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=Xunzk_GyGJA)  |
+| Innovating-with-IoT                                 | [Resources](https://github.com/ISTE-VIT/Innovating-with-IoT)        | [Webinar](https://www.youtube.com/watch?v=iEQEQKH82jE)  |
+| Striving Sheroes                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=4urUEFHSvyA)  |
+| Excavating Data Science                    | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=3QOyBHW02i0)  |
+| Open Source 101                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=fQky6RAmyuc)  |
+| Arduino Amplified                  | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=Sen6jTuJ82s)  |
+| Create With Kotlin                     | [Resources](https://github.com/ISTE-VIT/Create-With-Kotlin)  | [Webinar](https://www.youtube.com/watch?v=s9GFvpWwytY)  |
 <hr>
 <p align="center">
 	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
