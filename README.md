@@ -42,6 +42,11 @@
 | Open Source 101                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=fQky6RAmyuc)  |
 | Arduino Amplified                  | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=Sen6jTuJ82s)  |
 | Create With Kotlin                     | [Resources](https://github.com/ISTE-VIT/Create-With-Kotlin)  | [Webinar](https://www.youtube.com/watch?v=s9GFvpWwytY)  |
+| ML Bootcamp                   | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=m42QcqKBD8M)  |
+| Electronix                   | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=AkZHnu-fEJ0)  |
+| Web Dev                   | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=f4nEsPv4Gtg)  |
+| Fundamentals of Cybersecurity    | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=myF-40JkgCw)  |
+| Roadmap to Placements          | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=BG3skSnMjts)  |
 <hr>
 <p align="center">
 	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
