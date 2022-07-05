@@ -34,16 +34,16 @@
 | Spectacul-AR                           | [Resources](https://github.com/ISTE-VIT/Spectacul-AR)        | [Webinar](https://www.youtube.com/watch?v=k4_RjiDUSZM)  |
 | Decoding-Data                                  | [Resources](https://github.com/ISTE-VIT/Decoding-Data)        | [Webinar](https://youtu.be/nbFNh_Zo2-w)  | 
 | DeCrypto                                 | [Resources](https://github.com/ISTE-VIT/DeCrypto)        | [Webinar](https://youtu.be/wRQCemRueTw)  | 
-| Kickstart Kaggle                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=X9iVdWAQFb8)  |
+| Kickstart Kaggle                                 | [Resources](https://github.com/ISTE-VIT/Resources/blob/master/Artificial%20Intelligence/Kaggle.md)        | [Webinar](https://www.youtube.com/watch?v=X9iVdWAQFb8)  |
 | Data Security                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=Xunzk_GyGJA)  |
 | Innovating-with-IoT               | [Resources](https://github.com/ISTE-VIT/Innovating-with-IoT)        | [Webinar](https://www.youtube.com/watch?v=iEQEQKH82jE)  |
-| Arduino Amplified                  | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=Sen6jTuJ82s)  |
+| Arduino Amplified                  | [Resources](https://github.com/ISTE-VIT/Arduino_Amplified)        | [Webinar](https://www.youtube.com/watch?v=Sen6jTuJ82s)  |
 | Open Source 101                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=fQky6RAmyuc)  |
 | Striving Sheroes                                 | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=4urUEFHSvyA)  |
-| Excavating Data Science                    | [Resources](https://github.com/ISTE-VIT/)        | [Webinar](https://www.youtube.com/watch?v=3QOyBHW02i0)  |
-| ML Bootcamp                   | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=m42QcqKBD8M)  |
-| Electronix                   | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=AkZHnu-fEJ0)  |
-| Web Dev                   | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=f4nEsPv4Gtg)  |
+| Excavating Data Science                    | [Resources](https://github.com/ISTE-VIT/Resources/blob/master/Artificial%20Intelligence/DataScience.md)        | [Webinar](https://www.youtube.com/watch?v=3QOyBHW02i0)  |
+| ML Bootcamp                   | [Resources](https://github.com/ISTE-VIT/ML-Bootcamp-22)  | [Webinar](https://www.youtube.com/watch?v=m42QcqKBD8M)  |
+| Electronix                   | [Resources](https://github.com/ISTE-VIT/Electronix-22)  | [Webinar](https://www.youtube.com/watch?v=AkZHnu-fEJ0)  |
+| Web Dev                   | [Resources](https://github.com/ISTE-VIT/WebDev-22)  | [Webinar](https://www.youtube.com/watch?v=f4nEsPv4Gtg)  |
 | Fundamentals of Cybersecurity    | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=myF-40JkgCw)  |
 | Roadmap to Placements          | [Resources](https://github.com/ISTE-VIT/)  | [Webinar](https://www.youtube.com/watch?v=BG3skSnMjts)  |
 | Create With Kotlin                     | [Resources](https://github.com/ISTE-VIT/Create-With-Kotlin)  | [Webinar](https://www.youtube.com/watch?v=s9GFvpWwytY)  |
